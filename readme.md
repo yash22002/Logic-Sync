@@ -25,7 +25,8 @@ The repository is organized topic-wise to keep track of different data structure
 
 | # | Problem Name | Platform | Language | Difficulty | Solution |
 |---|--------------|----------|----------|------------|----------|
-| 1 | Two Sum      | LeetCode | Java     | Easy       | [View](./01_Arrays/TwoSum.java) |
+| 1 | Largest Number of the array | LeetCode | PHP | Easy | [View](./01_Arrays/TwoSum.java](https://github.com/yash22002/Logic-Sync/blob/main/PHP/LargestElement.php)) |
+| 2 | Second Largest Number of the array | LeetCode | PHP | Easy | [View](./01_Arrays/TwoSum.java](https://github.com/yash22002/Logic-Sync/blob/main/PHP/Second-LargestElement.php)) |
 
 ---
 *Happy Coding! 💻*
