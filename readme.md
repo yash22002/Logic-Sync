@@ -33,7 +33,7 @@ The repository is organized topic-wise to keep track of different data structure
 | 6 | The sum of the given number | HackerRank | JavaScript | Easy | [View](.[[[[/01_Arrays/TwoSum.java](https://github.com/yash22002/Logic-Sync/blob/main/PHP/Second-LargestElement.php)](https://github.com/yash22002/Logic-Sync/blob/main/JavaScript/01-Factorial/factorial.js)](https://github.com/yash22002/Logic-Sync/blob/main/JavaScript/01-Factorial/Fibonacci%20Seeries](https://github.com/yash22002/Logic-Sync/blob/main/JavaScript/01-Factorial/Area%20of%20Rectangle))](https://github.com/yash22002/Logic-Sync/blob/main/JavaScript/01-Factorial/The%20sum%20of%20the%20given%20number)) |
 | 7 | Reverse String | LeetCode | JavaScript | Medium | [View]([.[[[[/01_Arrays/TwoSum.java](https://github.com/yash22002/Logic-Sync/blob/main/PHP/Second-LargestElement.php)](https://github.com/yash22002/Logic-Sync/blob/main/JavaScript/01-Factorial/factorial.js)](https://github.com/yash22002/Logic-Sync/blob/main/JavaScript/01-Factorial/Fibonacci%20Seeries](https://github.com/yash22002/Logic-Sync/blob/main/JavaScript/01-Factorial/Area%20of%20Rectangle))](https://github.com/yash22002/Logic-Sync/blob/main/JavaScript/01-Factorial/The%20sum%20of%20the%20given%20number)](https://github.com/yash22002/Logic-Sync/blob/main/JavaScript/01-Factorial/Reverse%20String.js)) |
 | 8 | Armstrong Number | LeetCode | Python | Medium | [View](https://github.com/yash22002/Logic-Sync/tree/main/Python) |
-| 8 | Prime Number | HackerRank | Python | Easy | [View](https://github.com/yash22002/Logic-Sync/tree/main/Python) |
+| 9 | Prime Number | HackerRank | Python | Easy | [View](https://github.com/yash22002/Logic-Sync/tree/main/Python) |
 
 https://github.com/yash22002/Logic-Sync/tree/main/Python
 ---
